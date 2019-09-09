@@ -1,0 +1,17 @@
+{
+"companyName": "Maxim",
+"productName": "Match3",
+"productVersion": "0.94",
+"dataUrl": "maksimonishchenko.github.io.data.unityweb",
+"asmCodeUrl": "maksimonishchenko.github.io.asm.code.unityweb",
+"asmMemoryUrl": "maksimonishchenko.github.io.asm.memory.unityweb",
+"asmFrameworkUrl": "maksimonishchenko.github.io.asm.framework.unityweb",
+"TOTAL_MEMORY": 268435456,
+"graphicsAPI": ["WebGL 2.0","WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20",
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.2.2f1"
+}
